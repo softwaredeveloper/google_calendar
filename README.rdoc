@@ -15,7 +15,7 @@ Note: Google requests that you set the name of your application so they can bett
   require 'google_calendar'
 
 Google calendar api integration programmer 
-https://www.phpfreelanceprogrammer.com/googlecalendarapiv3programmer.html
+[Freelance google api developer](https://www.phpfreelanceprogrammer.com/googlecalendarapiv3programmer.html)
 
   # private calendar
   cal = Google::Calendar.new(:username => 'some.person@gmail.com',
